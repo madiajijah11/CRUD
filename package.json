@@ -1,7 +1,7 @@
 {
   "name": "saipurrahman",
   "version": "1.0.0",
-  "description": "",
+  "description": "crud penjualan simple",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.0.0-beta3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madiajijah11/saipurrahman.git"
+  },
+  "bugs": {
+    "url": "https://github.com/madiajijah11/saipurrahman/issues"
+  },
+  "homepage": "https://github.com/madiajijah11/saipurrahman#readme"
 }
