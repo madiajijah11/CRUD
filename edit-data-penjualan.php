@@ -31,7 +31,7 @@ if (isset($_POST['editpenjualan'])) {
 </head>
 <body>
   <div class="container">
-    <h1 class="mt-4">Edit Nasabah Lunas</h1>
+    <h1 class="mt-4">Edit Penjualan</h1>
     <div class="card">
       <div class="card-header">Edit Data
       </div>

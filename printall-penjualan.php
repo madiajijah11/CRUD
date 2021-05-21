@@ -90,7 +90,7 @@ $pdf->AddPage();
 $pdf->Cell(0, 0.7, '==========================================================================================', 0, 0, 'C');
 $pdf->ln(10);
 $pdf->SetFont('helvetica', 'B', 14);
-$pdf->Cell(0, 0.7, 'Laporan Data Nasabah Lunas', 0, 0, 'C');
+$pdf->Cell(0, 0.7, 'Laporan Data Penjualan', 0, 0, 'C');
 $pdf->ln(10);
 $pdf->SetFont('dejavusans', '', 10, '', true);
 $pdf->Cell(50, 10, "Print pada : " . date("d/m/Y"), 0, 0, 'C');
