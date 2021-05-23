@@ -27,7 +27,7 @@ if (isset($_POST['datapenjualan'])) {
 </head>
 <body>
   <div class="container">
-    <h1 class="mt-4">Data penjualan</h1>
+    <h1 class="mt-4">Data Penjualan</h1>
     <div class="card">
       <div class="card-header">Tambah Data
       </div>
