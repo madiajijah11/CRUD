@@ -1,2 +1,1 @@
-# saipurrahman
-CRUD penjualan simple using Native PHP 7
+# CRUD penjualan simple using Native PHP 7
